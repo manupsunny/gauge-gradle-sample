@@ -1,0 +1,11 @@
+.gradle
+.gauge
+.idea
+*.iml
+
+build
+
+.logs
+.reports
+
+
